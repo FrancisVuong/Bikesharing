@@ -8,7 +8,7 @@ Link to [Tableau_Public](https://public.tableau.com/app/profile/francis.vuong/vi
 
 ## Written Analysis
 
-Please see the [screenshots] (https://github.com/FrancisVuong/Bikesharing/tree/main/Screenshots) provided for charts available on the tablue public.
+Please see the [Screenshots](https://github.com/FrancisVuong/Bikesharing/tree/main/Screenshots) provided for charts available on the tablue public.
 
 With the data provided to us, based on the month of August 2019, The large majority of users were around the Manhattan Island area. Mostly by male users during the morning and evening hours. This does emply that Citi Bike services are used as an alternative to public transport by commuters.
 
